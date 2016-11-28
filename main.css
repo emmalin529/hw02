@@ -1,5 +1,39 @@
-h1{
-    font-size:40px;
-  color: #fff ;
-  background-color: lightblue;
+.rect{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 150px;
+    font-size: 50px;
+    font-weight: 900;
+    
+}
+.red{
+    background: red;
+    color: white
+}
+.gold{
+    background: gold;
+    color: black
+}
+
+.inner{
+   background:white;
+}
+.box{
+  width:60px;
+  height:60px;
+  border-radius:50%
+}
+.bg1{
+ background: orangered; 
+}
+.bg2{
+ background: limegreen; 
+}
+.bg3{
+ background: dodgerblue; 
+}
+.bg4{
+ background: gold; 
 }
