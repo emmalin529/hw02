@@ -2,11 +2,6 @@ strong {
     color: red;
     color;
 }
-
-body {
-    line-height: 100em
-}
-
 .rect {
     height: 40px;
     width: 40px;
@@ -14,6 +9,7 @@ body {
     text-align: center;
     font-weight: 900;
     font-family: arial black;
+    letter-spacing: .em;
 }
 
 .red {
