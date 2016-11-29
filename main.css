@@ -1,28 +1,38 @@
-body{
-    font-family: arial black
+body {
+    font-family: arial;
 }
+
 strong {
-    color: red;
-    color;
+    color: #d60000;
 }
+
 .rect {
-    height: 40px;
-    width: 40px;
+    height: 35px;
+    width: 35px;
     border-radius: 50%;
     text-align: center;
+    font-weight: 900;
+}
+
+.top {
+    font-size: .85em;
+    font-weight: 400;
+}
+.word {
+    font-size: .9em;
     font-weight: 600;
-    font-family: arial black;
-    letter-spacing: .em;
 }
 
 .red {
-    background: red;
-    color: white
+    background: #e30000;
+    color: white;
+    font-size: 1.3em;
 }
 
 .gold {
-    background: gold;
+    background: #fcc200;
     color: black;
+    font-size: 1.3em;
 }
 
 .yellow {
