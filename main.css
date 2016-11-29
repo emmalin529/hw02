@@ -1,39 +1,36 @@
-.rect{
-    height: 150px;
-    width: 150px;
+strong {
+    color: red;
+    color;
+}
+
+body {
+    line-height: 100em
+}
+
+.rect {
+    height: 40px;
+    width: 40px;
     border-radius: 50%;
     text-align: center;
-    line-height: 150px;
-    font-size: 50px;
     font-weight: 900;
-    
+    font-family: arial black;
 }
-.red{
+
+.red {
     background: red;
     color: white
 }
-.gold{
+
+.gold {
     background: gold;
-    color: black
+    color: black;
 }
 
-.inner{
-   background:white;
+.yellow {
+    background: #fdf9ca;
+    color: #fdf9ca
 }
-.box{
-  width:60px;
-  height:60px;
-  border-radius:50%
-}
-.bg1{
- background: orangered; 
-}
-.bg2{
- background: limegreen; 
-}
-.bg3{
- background: dodgerblue; 
-}
-.bg4{
- background: gold; 
+
+.inner {
+    background: #fdf9ca;
 }
